@@ -1,4 +1,4 @@
-# EasterEggs
+# Atelier Obscura
 
 Static GitHub Pages site for a luxury Easter egg archive and wait list.
 
@@ -9,7 +9,7 @@ Static GitHub Pages site for a luxury Easter egg archive and wait list.
 
 ## GitHub Pages deployment
 
-1. Create a repository called `EasterEggs`
+1. Create a repository called `Atelier-Obscura`
 2. Upload the contents of this folder to the repository root
 3. Commit to `main`
 4. In GitHub:
